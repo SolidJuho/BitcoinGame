@@ -1,0 +1,11 @@
+C:\Users\OMISTAJA\source\repos\CMDGame\CMDGame\bin\Debug\CMDGame.exe.config
+C:\Users\OMISTAJA\source\repos\CMDGame\CMDGame\bin\Debug\CMDGame.exe
+C:\Users\OMISTAJA\source\repos\CMDGame\CMDGame\bin\Debug\CMDGame.pdb
+C:\Users\OMISTAJA\source\repos\CMDGame\CMDGame\obj\Debug\CMDGame.csprojAssemblyReference.cache
+C:\Users\OMISTAJA\source\repos\CMDGame\CMDGame\obj\Debug\CMDGame.Form1.resources
+C:\Users\OMISTAJA\source\repos\CMDGame\CMDGame\obj\Debug\CMDGame.Properties.Resources.resources
+C:\Users\OMISTAJA\source\repos\CMDGame\CMDGame\obj\Debug\CMDGame.csproj.GenerateResource.cache
+C:\Users\OMISTAJA\source\repos\CMDGame\CMDGame\obj\Debug\CMDGame.csproj.CoreCompileInputs.cache
+C:\Users\OMISTAJA\source\repos\CMDGame\CMDGame\obj\Debug\CMDGame.exe
+C:\Users\OMISTAJA\source\repos\CMDGame\CMDGame\obj\Debug\CMDGame.pdb
+C:\Users\OMISTAJA\source\repos\CMDGame\CMDGame\bin\Debug\HelpInfo.xml

@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<root>
+  <CPU_Upgrades>
+    <CPU1>100</CPU1>
+    <CPU2>500</CPU2>
+    <CPU3>2000</CPU3>
+    <CPU4>5000</CPU4>
+    <CPU5>10000</CPU5>
+    
+  </CPU_Upgrades>
+  
+</root>

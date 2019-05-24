@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+
+<root>
+  <Command name="help">
+    <cmd>Help (command)</cmd>
+    <ShortDesription>Shows list of commands</ShortDesription>
+    <Description>Shows you a list of all available commands or more details from specific command</Description>
+    <Examples>Help sell, Shows more details about sell command.</Examples>
+  </Command>
+
+  <Command name="sell">
+    <cmd>Sell (amount in btc)</cmd>
+    <ShortDescription>Sells all/amount bitcoins from wallet</ShortDescription>
+    <Description>Sells all/amount bitcoins from wallet.</Description>
+    <Examples>Sell 2, Sell All</Examples>
+  </Command>
+  <Command name="example">
+    <cmd></cmd>
+    <ShortDescription></ShortDescription>
+    <Description></Description>
+    <Examples></Examples>
+  </Command>
+</root>
